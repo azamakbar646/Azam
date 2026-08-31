@@ -254,7 +254,7 @@ Numbered sections: 1 Compensation, 2 When you are paid, 3 How the 30 day views a
 | Jake Thomas | @jakethomasfitness | $175 Reel (20K view clause) plus $2 CPM TikTok cap $200 across up to 5 videos, plus $2 CPM Stories cap $50 at 24h | PayPal jakesiciliano13. Views slowed since he moved to Miami, he is testing formats in test reels. No date yet. |
 | Manisha Kumar | @Ironpeachmk | $80 guaranteed plus $3 CPM above 15K, cap $250 | PayPal Msbeautyspa@gmail.com. Code KJPYWJNYLY7LY7FT66 working. Draft due week of 31 Aug. |
 | Verónica M | @its.verom | $125 guaranteed plus $2 per 1,000 above 50K, IG cap $500. FB separate $2 CPM cap $250. Max $750 | Code YHLNJL3H3LWMYXLTPP sent 26 Aug. Very thorough, wants everything in writing. Price demand was 150. No date yet. |
-| Natshin | @onenatshin | $110 guaranteed plus $2 per 1,000 above 40K, cap $250. FB separate cap $250 | Managed by his mother **Rita Arnold** (Luckyyolme@gmail.com). Code FWA8PPLN3KK4A4Y6ML working. Starts using the app Mon 31 Aug. Median 48.4K. No posting date yet. |
+| Natshin | @onenatshin | Original deal $110 guaranteed plus $2 per 1,000 above 40K, cap $250. FB separate cap $250. **In flux, see section 11, 2026-08-31** | Managed by his mother **Rita Arnold** (Luckyyolme@gmail.com, second email natshinnumber1@gmail.com). Code FWA8PPLN3KK4A4Y6ML working. Video already made, pitched as a recurring "Food Series" for September. Rita asked 31 Aug if okay to post that day. |
 | Smitha (Smi Jain) | @itsminva8ion | $60 guaranteed plus $2 per 1,000 above 25K, cap $300. FB separate cap $250 | itsmivegan@gmail.com. Code redeemed, Apple screen confusion resolved 29 Aug. Median 27.7K. No date yet. |
 
 ### OFFER SENT, awaiting their answer
@@ -322,3 +322,28 @@ Kristin T (@coachktownfit_), Abigail Schwarz, Dred (@dredbaby.price), nydasteppa
 - **Rex's video underperformed** because it read as too commercial. This is the origin of every content rule in section 3.
 - **Asking Jake for PayPal in advance** broke the form-incentive rule. Do not repeat.
 - **Misattributing which creator a Jacob message refers to.** He often replies to two threads in a row. Always check which creator he is answering before drafting.
+
+---
+
+## 11. NATSHIN / RITA — FOOD SERIES PIVOT (Jacob, 2026-08-31)
+
+Natshin's original deal (section 7) was a single video, $110 guaranteed plus $2 per 1,000 above 40K, cap $250, FB separate cap $250. That is now superseded, this section is the current state.
+
+**What happened:** Rita sent a video already made. Jacob's read: the app is shown too far into the video for good conversion (viewers drop off before it appears), but he does **not** want a reshoot, the friction of asking is too high relative to the gain. So the existing video goes ahead as is, no notes back to Rita on it.
+
+**Rita then pitched something bigger:** turning this into a recurring **Food Series** featuring Natshin for September, not just one sponsored video. She also raised a **"Fitness & Food" group idea**, positioning Protein8 as part of Natshin's actual journey. Jacob likes this direction and sees real long term potential in it.
+
+**Jacob's reply to Rita (drafted under Azam's name, sent 2026-08-30 22:16, his own wording) laid out two paths:**
+
+1. **Standalone single collaboration, as originally agreed:** would need **one additional video** where Protein8 appears earlier, because when the app only shows at the very end a large part of the audience never sees the integration.
+2. **Recurring Food Series:** Jacob is open to a **slightly lower fixed rate per video** across the full series, in exchange for volume. Placement preference: Protein8 appearing earlier when it fits naturally, for example Natshin laying out and scanning ingredients before cooking. This does not have to be identical every episode, scanning the finished meal at the end is fine sometimes too, with the tradeoff that fewer viewers see it that time. The one hard requirement: it must feel like a natural, recognizable part of the series, not an ad inserted into every episode.
+
+Jacob asked Rita to say how many videos she is thinking for the series so a structure and price can be worked out for both sides. **Not yet answered by Rita as of 31 Aug.**
+
+**Open item:** Rita followed up 31 Aug 19:00 asking if it is okay to post **that day**, framed as "a Food Series for the fresh month of September," and asking about next steps. This has not been answered yet. Do not confirm a posting date or a series price until Jacob or the tracker reflects the agreed structure, and until it is clear whether this posts as the original single-video deal or as the first entry in a paid series (the compensation differs).
+
+**Next steps:**
+1. Get Rita's answer on video count for the series.
+2. Get Jacob to confirm the per-video rate once volume is known, keep it near the existing $2 to $4 CPM discipline unless he says otherwise.
+3. Confirm with Rita whether today's post is under the original single-video terms or the first of the series, before it goes live.
+4. Update this file and the tracker once the structure is locked.
