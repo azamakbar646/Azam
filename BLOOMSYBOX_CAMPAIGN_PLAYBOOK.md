@@ -19,7 +19,8 @@
 - **Content guidelines (Summer):** https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
 - **Mother's Day guidelines:** https://docs.google.com/document/d/174yhFwtFLROEyXEIGar04WR77gJVYzXp1eM0g08MR0Y/edit?tab=t.0
 - **Google Drive (collected video files):** https://drive.google.com/drive/folders/1jVJ5UdENF2qA3HT-7AXb-P3_o83fFqqv
-- **Usage-rights doc (Abbey's, for affiliate team):** https://docs.google.com/document/d/1onNzrGsG7I-j5lPBndeLVhyrcY-1fAj--mjfR1o6pkg/edit
+- **Usage-rights doc (Abbey's, for affiliate team):** https://docs.google.com/document/d/1onNzrGsG7I-j5lPBndeLVhyrcY-1fAj--mjfR1o6pkg/edit?tab=t.406pkovhdgz0
+- **Fall outreach format doc (Abbey, Aug 28 2026 — use this going forward, not the old templates):** https://docs.google.com/document/d/1onNzrGsG7I-j5lPBndeLVhyrcY-1fAj--mjfR1o6pkg/edit?tab=t.kl1sv7arj302
 
 ---
 
@@ -122,6 +123,14 @@ At this time this is a gifting-only campaign, so we don't have a paid budget for
 Wishing you all the best, and thank you again 💐
 ```
 
+### G2. PAID collab request — WITH affiliate option (use to keep the door open, per Chelseah's Aug 29 2026 sign-off)
+```
+Thank you so much for your interest! 🌸
+At this time this is a gifting-only campaign, so we don't have a paid budget for it right now. That said, we do have an affiliate program where you can earn a commission with your own code once your reel is live and picking up engagement. If that sounds good, feel free to email chelseah@bloomsybox.com and she can fill you in.
+We'd still love to have you on board for the gifting collab either way, no pressure at all. Wishing you all the best 💐
+```
+(Use G or G2, not both. Don't promise affiliate enrollment yourself, just point them to Chelseah. Flag her in only once the creator's reel is live and getting engagement, per section 6.)
+
 ### H. Offers STORY or PHOTO only (need reel/video)
 ```
 Thank you so much, and we really appreciate that! 🌸
@@ -222,7 +231,10 @@ Source creators who fit the BloomsyBox premium-lifestyle look:
 - **Abbey Wilson** — main client contact. Approves criteria, shipping decisions, budget calls. Says: outreach can continue; wants top-performing lifestyle/home-decor creators.
 - **Carolina Pedraza** — set up access/logins.
 - **Diana** — shipping team. Ships from Miami; uses leftover product for gifting (hence delays / inventory shortages).
-- **Chelseah Murphy** — runs BloomsyBox affiliate program (Impact → now Shopify Collabs, expanding to IG). Reaches out to top organic performers to join affiliate program. May appear in the IG inbox. Answer to her Q: we don't have creators sign contracts before flowers; we confirm comfort + two-week window + share guidelines doc; usage = organic reshare with credit.
+- **Chelseah Murphy** (chelseah@bloomsybox.com) — runs BloomsyBox affiliate program (Impact → now Shopify Collabs, expanding to IG). Reaches out to top organic performers to join affiliate program. May appear in the IG inbox. Answer to her Q: we don't have creators sign contracts before flowers; we confirm comfort + two-week window + share guidelines doc; usage = organic reshare with credit.
+  - **Referral protocol (confirmed Aug 29, 2026):** no minimum threshold set yet, "anyone getting engagement can be flagged" to Chelseah. Flag creators to her once their reel is live and getting engagement.
+  - **Affiliate mention now OK in outreach** (Chelseah, Aug 29, 2026): for a paid-only creator we'd otherwise decline (Template G), we can now mention the affiliate program as an earning path — they email Chelseah directly for their own code/commission, and she invites them in **once the reel shows initial engagement**. Don't promise enrollment upfront, only that the option exists and Chelseah reviews after posting. (See Template G2.)
+- **Internal note on usage rights (Abbey, Aug 28, 2026 — NOT for creators):** officially, per rule 4 / Template D, we tell creators content is reshared organically on BloomsyBox's own channels only, with credit. Internally, Abbey said she has also been repurposing creator content on TikTok without issues so far ("flying under the radar" on usage rights). This does **not** change what we promise creators — if a creator asks about usage scope, keep answering per Template D exactly. Don't proactively mention TikTok or any other repurposing to creators.
 
 ### Reporting to client — style
 Answer the exact question asked, concise, professional English. Example headline metric format:
@@ -241,7 +253,8 @@ Answer the exact question asked, concise, professional English. Example headline
 ### Shipping situation (important context)
 - Inventory short some weeks → only a limited number ship at a time; often a delay until product is available.
 - Order numbers get added to the sheet, but **tracking numbers are sometimes NOT added** — chase Abbey/Diana for tracking so creators can be told "on the way."
-- Abbey asked to **pause new outreach** at one point and pick up "in a few weeks for fall." Confirm current status before mass outreach.
+- **RESOLVED (Abbey, Aug 28, 2026):** outreach is back on, no more pause. Target **5 new influencers per week**, Diana ships weekly on that cadence. Use the **fall outreach** format doc from now on (see Key Links, section 1), not the old outreach templates. Abbey asked outreach to restart "the beginning of next week" from Aug 28, i.e. **now**.
+- Backlog cleared: the remaining 9 influencers on the old shipping sheet went out Tue Sept 1, 2026 (per Diana's updated shipping doc).
 
 ### Feedback / quality-issue log (report pattern to Abbey)
 - **Shelby (Delaurier Tolman):** some flowers already dead, others dried out/droopy.
