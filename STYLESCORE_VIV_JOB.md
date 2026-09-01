@@ -301,3 +301,32 @@ for install numbers that depend on the product and the offer, not on the outreac
    viewers into the app to vote. This became the client's chosen campaign.
 5. **Roommate fit check.** For the college segment, roommates rating each other's outfits in the
    app is a natural duet and stitch format.
+
+---
+
+## 14. CREATOR SOURCING CRITERIA (for the 15-creator sample list, section 10)
+
+1. **Platform:** TikTok and Instagram, both briefs list hashtags for both.
+2. **Tier:** nano (~1K-10K followers) and micro (~10K-100K followers), per section 1.
+3. **Location:** US-based creator AND majority-US audience (check the audience, not just the
+   creator's own location).
+4. **Content niche, kept broad:** GRWM, outfit/fit check, everyday style, closet content,
+   style-focused lifestyle creators. Do not narrow to "fashion influencer" only, the brand's own
+   testimonials range from an 18-year-old to a 30-year-old new mom (section 3).
+5. **Engagement rate over follower count:** roughly 5%+ for nano, 2-4%+ for micro, as a starting
+   bar. Watch for bot-inflated followers (comment ratio and comment quality are the tell).
+6. **Audience demographics:** check age skew (avoid a heavily under-18 audience, FTC/disclosure
+   risk), gender skew can be mixed, the app is not gender-specific.
+7. **Content format match:** already camera-facing, talking-style content. A strong bonus is
+   creators who already show friends or roommates in their content, since both briefs lean on a
+   "real friends disagreeing" dynamic (see the roommate fit check idea above).
+8. **Posting consistency:** active in the last 30 days, regular cadence, no dead accounts.
+9. **Brand safety:** no controversial or judgmental tone, briefs are explicit that StyleScore is
+   "confidence over perfection, not judgment or comparison."
+10. **Open to paid collabs:** since the app is free, a real fee is required to hit decent
+    acceptance (section 6), so prioritize creators with a track record of small paid brand
+    collabs, they already know how to negotiate and disclose.
+
+**Still blocking real targeting precision:** iOS-only vs. also-Android is unconfirmed (section
+3). Once known, weight sourcing toward creators whose audience device split favors whichever
+platform(s) the app actually supports.
