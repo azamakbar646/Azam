@@ -189,6 +189,20 @@ Use **Version B (single video) for the bulk of the 50**, because two deliverable
 and the drop-out rate at nano tier. Reserve **Version A (two videos) for a selected 10-15 stronger
 creators** with loyal audiences, where the reveal actually pays off.
 
+### Verified against the actual client files (2026-09-01, both docs opened and read in full)
+Everything above matches the source docs. Two extra assets worth keeping for the merged
+content-guideline doc (see section 10):
+- **Verbatim intro/mission line** (appears as the gold banner at the top of both docs):
+  "StyleScore helps people decide what to wear by getting quick, honest feedback from friends
+  and others who love style. Our mission is to make style fun, positive, and inclusive,
+  helping people feel confident in their personal style."
+- **Both docs link a "StyleScore app video tutorial: How the app works"** under the About
+  StyleScore section, but only as clickable link text in the docx, the actual URL was not
+  extractable from the raw file. Ask the client for this tutorial link when building the merged
+  doc, it is worth including for creators who have not used the app before.
+- Single-video doc's must-have list has one item not in the two-video doc: "Real friends, if it
+  fits naturally." Minor, folded into "must-haves checklist" above.
+
 ---
 
 ## 8. GAPS IN THE CLIENT'S BRIEF (Azam's findings, message NOT yet sent as of 2026-09-01)
