@@ -6,15 +6,24 @@ Built for Azam's second laptop. Keep this updated as the job moves.
 
 ## 1. STATUS RIGHT NOW
 
-**Stage: pre-contract.** Negotiating scope and cost in Upwork chat. No contract set up yet.
-**Nothing billable has been done yet, and no sourcing work should start before the contract exists.**
+**Stage: contract offer sent, not yet started.** Client sent an Upwork contract:
+**$10.00/hr, no rate increase, 10 hrs/week limit, "10 hours as discussed".**
+This is well below the $20/hr rate Azam originally submitted and far short of the ~78-hour,
+$1,500 scope the 50-creator quote in section 6 was built on. Treat this contract as a smaller
+trial/starter scope, not the full 50-creator engagement, unless the client says otherwise.
+**Nothing billable has been done yet.**
 
-Blocking on TWO unanswered questions already sent to the client:
+Still unanswered by the client (do not assume, confirm before sourcing):
 1. Does "50 creators" mean 50 sourced + contacted, or 50 who actually deliver a video?
 2. What is being offered to creators (fee range)?
+3. Is this 10-hr/$10/hr contract meant to just be a start, with more hours/rate later, or is it
+   the whole scope he wants to run this job at?
 
-The client HAS since delivered the creator content guideline (two versions, see section 7),
-but has NOT yet answered either question above.
+2026-09-01: after a gap (Azam had internet issues), Viv R messaged "Azam, are you still
+interested in my project?" Azam replied confirming interest, sharing the generic outreach
+templates (google doc link, see section 10) for Viv to adjust to his actual offer, and
+suggesting the two creator brief docs (section 7) get merged into one content guideline doc
+that can be linked directly to creators in the brief message.
 
 ---
 
@@ -221,7 +230,19 @@ The brief needs a fallback (include friends' votes, or show whatever feedback ex
 - **A 15-creator sample list:** US nano and micro creators fitting the target profile, with
   handles, follower and engagement data, audience skew, why each fits StyleScore, and a
   suggested content angle per creator. To be delivered once the contract is set up.
-- The full outreach message set (templates) once the offer to creators is known.
+- **Generic outreach templates: DELIVERED 2026-09-01.** Shared as a Google Doc with the client:
+  https://docs.google.com/document/d/1NT3RPF1OmXbFPMtg_QySwscrYG75j9VX/edit
+  Deliberately generic (uses [OFFER] / [TRACKING LINK/CODE] placeholders) since the creator fee
+  and tracking mechanism are still unconfirmed. Client asked to fill placeholders with his real
+  numbers once decided. Local copies also live in this repo: STYLESCORE_OUTREACH_TEMPLATES.md
+  and StyleScore_Creator_Outreach_Templates.docx.
+- **Proposed: a single merged content guideline doc.** Azam suggested (2026-09-01, awaiting
+  client reply) combining the client's two creator brief docs (section 7, Version A and
+  Version B) into ONE content guideline document covering both concepts, the must-have
+  checklist, hashtags, brand tone, tagging instructions, and a disclosure note. Purpose: this
+  merged doc gets linked directly inside each creator's brief message (section 6, template 6/7)
+  so the creator can open it in one tap instead of downloading a file. Not yet built, waiting
+  on the client to confirm this approach before Azam builds it.
 
 ---
 
