@@ -229,6 +229,13 @@ Note: our bouquets are a curated seasonal selection, so we can't pick specific s
 ```
 (If order not shipped and creator will be away → tell team to HOLD and ship after their return date.)
 
+### T. Sent raw photos/clips but hasn't POSTED a reel yet (clarify the deliverable)
+```
+Thank you so much for sending these over, they're gorgeous! 🌸 Just to make sure we're all set, could you also post a Reel or video to your feed using this footage? That's the piece we actually need for the collaboration, the photos and clips are a lovely bonus, but it's the posted video that counts.
+Whenever it's live, we're all set, no need to resend the file since we already have it here 💐
+```
+(Don't treat raw files alone as the deliverable, rule 3. Once she posts, this becomes Template O territory, file's already in hand so no repeat ask.)
+
 ---
 
 ## 5. TARGETING CRITERIA (set by client Abbey Wilson, Aug 2026)
