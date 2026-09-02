@@ -40,6 +40,8 @@
 ## 3. THE DM CHAIN (streamlined — no repetition between messages)
 
 ### Stage 1 — First outreach DM (IG has a char limit; keep short)
+
+**SUMMER variant (original):**
 ```
 Hi XXX,
 
@@ -50,6 +52,21 @@ This summer we're partnering with a select group of creators, and we'd love to s
 Would you be comfortable creating the content in line with our guidelines and sharing it within two weeks of receiving your flowers?
 
 If so, just reply and we'll send over the next steps 💛
+
+BloomsyBox Team
+```
+
+**FALL variant (in active use as of Sept 2026 — use this one now):** mentions the affiliate program upfront, which helps convert paid-only creators.
+```
+Hi XXX, 🎉 We're reaching out from BloomsyBox and would love to partner with you for fall! 🍂
+
+We're working with a select group of creators this season and would love to send you a VIP BloomsyBox bouquet to bring a little fresh, farm-to-door beauty into your fall.
+
+In exchange, we're looking for one Reel/video sharing your experience, plus the original video file. We'll send over simple content guidelines + creative inspiration, and we'd love to feature your content across our channels as well!
+
+Plus, top-performing creators can join our affiliate program and earn commission with their own code ✨
+
+If you're interested and able to share your content within two weeks of receiving your flowers, just reply here and we'll send over the details. 💛
 
 BloomsyBox Team
 ```
