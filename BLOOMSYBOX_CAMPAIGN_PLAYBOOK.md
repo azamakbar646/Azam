@@ -16,7 +16,8 @@
 - **Content window:** created + shared within **TWO WEEKS** of receiving the flowers (this is the qualifying question before shipping).
 
 ### Key links
-- **Content guidelines (Summer):** https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
+- **Content guidelines (Fall — current, send this now):** https://docs.google.com/document/d/13pswvpe2OBB0rzOcTMl63lQpt4Qqb5L8L9Kqnu5vkLA/edit?tab=t.0
+- **Content guidelines (Summer — superseded, kept for reference):** https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
 - **Mother's Day guidelines:** https://docs.google.com/document/d/174yhFwtFLROEyXEIGar04WR77gJVYzXp1eM0g08MR0Y/edit?tab=t.0
 - **Google Drive (collected video files):** https://drive.google.com/drive/folders/1jVJ5UdENF2qA3HT-7AXb-P3_o83fFqqv
 - **Usage-rights doc (Abbey's, for affiliate team):** https://docs.google.com/document/d/1onNzrGsG7I-j5lPBndeLVhyrcY-1fAj--mjfR1o6pkg/edit?tab=t.406pkovhdgz0
@@ -76,7 +77,7 @@ BloomsyBox Team
 Wonderful, we'd love to have you on board! 🌸
 
 Please take a moment to review our content guidelines here:
-https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
+https://docs.google.com/document/d/13pswvpe2OBB0rzOcTMl63lQpt4Qqb5L8L9Kqnu5vkLA/edit?tab=t.0
 
 If you're comfortable creating your reel/video in line with these guidelines, please go ahead and share your shipping details, and we'll arrange delivery of your BloomsyBox right away 💐
 ```
@@ -99,7 +100,7 @@ Looking forward to your content! 💐
 ### A. Interested but wants to REVIEW guidelines first (no shipping ask yet)
 ```
 Of course! Here you go 🌸
-https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
+https://docs.google.com/document/d/13pswvpe2OBB0rzOcTMl63lQpt4Qqb5L8L9Kqnu5vkLA/edit?tab=t.0
 Take your time to look them over, and just let us know if you have any questions. Whenever you're ready, we'd love to have you on board 💐
 ```
 
@@ -107,7 +108,7 @@ Take your time to look them over, and just let us know if you have any questions
 ```
 Of course! We're looking for a natural reel or video sharing your BloomsyBox experience, think unboxing, styling the flowers in your space, a cozy at-home moment, whatever feels authentic to your content.
 Our content guidelines doc includes reference video examples for style and tone (just for inspiration, make it your own):
-https://docs.google.com/document/d/1Mecl7QqN3WjiJRjpxpMRx7u1kIcdtjnieG66443eOl8/edit?tab=t.0
+https://docs.google.com/document/d/13pswvpe2OBB0rzOcTMl63lQpt4Qqb5L8L9Kqnu5vkLA/edit?tab=t.0
 ```
 
 ### C. Asks "how are ideas selected / who decides the concept"
@@ -285,7 +286,26 @@ Answer the exact question asked, concise, professional English. Example headline
 
 ## 8. SEASONAL VARIANTS (from source doc "BloomsyBox Outreach Templates.docx")
 
-Three template sets exist: **Tab 1 / evergreen**, **Mother's Day**, **Summer** (current). Each has: first email, IG DM, ready-to-collaborate, shipping-received, paid-collab decline, delivered follow-up, thank-you, hi-res-file-via-WeTransfer request.
+Template sets exist for **Tab 1 / evergreen**, **Mother's Day**, **Summer**, and now **Fall** (current, Sept 2026). Each has: first email, IG DM, ready-to-collaborate, shipping-received, paid-collab decline, delivered follow-up, thank-you, hi-res-file-via-WeTransfer request.
+
+### Fall Content Guidelines doc (current — see Key Links, section 1)
+
+Opening framing (paraphrased from the doc):
+> There's something about this time of year that makes us want to slow down, refresh our spaces, and make everyday moments feel a little more special. As the season changes outside, BloomsyBox makes it easy to bring that feeling indoors with fresh, farm-to-door flowers.
+> Whether it's styling a cozy corner, setting the table for friends, adding fresh blooms to your fall décor, or simply treating yourself to something beautiful, we'd love to see how BloomsyBox fits naturally into your fall routine.
+> Most importantly, we want the content to feel like you. Use your own voice, aesthetic and creativity while keeping the guidelines below in mind.
+
+**🍂 Fall Creative Direction:** think warm, inviting, lived-in fall moments rather than overly staged seasonal content.
+
+Ideas to inspire content:
+- Refreshing your home for fall with fresh flowers
+- Styling blooms alongside seasonal décor
+- Cozy mornings at home with coffee + flowers
+- Fall tablescapes and hosting
+- Unboxing and arranging your bouquet
+- Sending flowers as a thoughtful fall gift
+
+Note: creators aren't locked into a "fall" aesthetic if their bouquet reads differently (e.g. a creator styled hers as "end of summer vibes" because the flowers looked summery, and that's fine per Template C, "creative direction is totally yours"). Don't push the fall theme on a creator whose blooms don't match it.
 
 Content Guidelines (all seasons):
 - **DO:** natural light · clean/clutter-free background · highlight lifestyle/gifting moments (unboxing, styling, hosting, self-care) · mention bigger blooms/stronger stems/higher petal count/longer vase life · share a flower care tip · warm/joyful/authentic tone.
