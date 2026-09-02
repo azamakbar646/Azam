@@ -236,6 +236,13 @@ Whenever it's live, we're all set, no need to resend the file since we already h
 ```
 (Don't treat raw files alone as the deliverable, rule 3. Once she posts, this becomes Template O territory, file's already in hand so no repeat ask.)
 
+### U. File received is LOW QUALITY / compressed (request a re-send)
+```
+Thank you so much for sending that over! 🌸 The file came through pretty small (around [X]MB) so it's not quite high enough resolution on our end.
+Would you mind resending the original video in its full quality? Uploading via WeTransfer (www.wetransfer.com) to yourfriends@bloomsybox.com usually keeps it from compressing. Thank you so much for your patience 💐
+```
+(Common cause: sent straight from IG/WhatsApp chat, which compresses video. WeTransfer or a direct camera-roll upload keeps original resolution.)
+
 ---
 
 ## 5. TARGETING CRITERIA (set by client Abbey Wilson, Aug 2026)
