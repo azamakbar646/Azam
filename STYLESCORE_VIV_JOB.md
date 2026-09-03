@@ -354,3 +354,29 @@ for install numbers that depend on the product and the offer, not on the outreac
 **Still blocking real targeting precision:** iOS-only vs. also-Android is unconfirmed (section
 3). Once known, weight sourcing toward creators whose audience device split favors whichever
 platform(s) the app actually supports.
+
+### Client's actual selection pattern, confirmed from his review (2026-09-03)
+
+Azam sent a first sourced list, Viv reviewed it and highlighted his picks. The pattern in what
+he kept vs. dropped:
+- **KEPT:** creators who are strictly outfit-focused, wearing a different look in every video
+  (pure fashion/GRWM/outfit-check content).
+- **DROPPED:** creators who mix in fitness, general lifestyle, or other content categories
+  alongside GRWM/outfit content, even if the follower/engagement numbers fit.
+Use this as a hard filter going forward, not just the niches list above, favor single-focus
+outfit/fashion creators over multi-niche lifestyle creators.
+
+**Cross-platform bonus:** for creators who are strong on both Instagram and TikTok, Viv wants to
+negotiate ONE video posted to both channels, with an extra $25-$50 on top of the base $75-$200
+for adding it to their second channel. Include this as an option in the initial outreach
+message, do not treat it as automatic, it is a negotiated add-on once the creator engages.
+Example given: https://www.instagram.com/yaliahcancel (Insta-first, but has a big TikTok
+following too).
+
+**Process note:** Viv is reviewing the email outreach template himself before it goes out, he
+said he would confirm once done. Do not send outreach until he confirms the template.
+
+**Upwork chat caution:** a "Communicating outside of Upwork before a contract starts" policy
+warning fired on Viv's message because it contained an external Instagram link. Keep replies
+free of pasted external links where possible, same standing caution as the pay/PayPal word
+issue in section 9.
