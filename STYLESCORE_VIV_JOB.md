@@ -1,5 +1,5 @@
 # STYLESCORE / VIV R (MICURI INC) - FULL JOB FILE
-Last updated: 2026-09-01. Portable working file for the StyleScore creator-outreach job.
+Last updated: 2026-09-02. Portable working file for the StyleScore creator-outreach job.
 Built for Azam's second laptop. Keep this updated as the job moves.
 
 ---
@@ -15,15 +15,24 @@ trial/starter scope, not the full 50-creator engagement, unless the client says 
 
 Still unanswered by the client (do not assume, confirm before sourcing):
 1. Does "50 creators" mean 50 sourced + contacted, or 50 who actually deliver a video?
-2. What is being offered to creators (fee range)?
-3. Is this 10-hr/$10/hr contract meant to just be a start, with more hours/rate later, or is it
+2. Is this 10-hr/$10/hr contract meant to just be a start, with more hours/rate later, or is it
    the whole scope he wants to run this job at?
+3. What exactly he means by "access to email and Instagram + TikTok accounts" (his own brand
+   accounts, presumably), confirm scope before agreeing.
+
+**RESOLVED 2026-09-02: the creator fee range and sourcing criteria are now known**, see section
+14 for the client's exact follower range, engagement thresholds, content niches and per-creator
+pricing ($75-$200). This was blocking question #2 from earlier versions of this file, now closed.
 
 2026-09-01: after a gap (Azam had internet issues), Viv R messaged "Azam, are you still
 interested in my project?" Azam replied confirming interest, sharing the generic outreach
 templates (google doc link, see section 10) for Viv to adjust to his actual offer, and
 suggesting the two creator brief docs (section 7) get merged into one content guideline doc
 that can be linked directly to creators in the brief message.
+
+2026-09-02: Viv R sent his own sourcing brief unprompted, see section 14 for the full numbers.
+He also asked if Azam is available now to set up access to his email and Instagram/TikTok
+accounts. Reply and confirm what access he actually means before agreeing.
 
 ---
 
@@ -306,26 +315,41 @@ for install numbers that depend on the product and the offer, not on the outreac
 
 ## 14. CREATOR SOURCING CRITERIA (for the 15-creator sample list, section 10)
 
+### CLIENT'S ACTUAL NUMBERS (Viv R, 2026-09-02, replaces Azam's earlier estimate below)
+
+- **Follower range: 10K - 50K.** (Narrower and higher-floor than Azam's original nano+micro
+  1K-100K estimate, treat 10K-50K as the real target band unless the client says otherwise.)
+- **Engagement: 5K-25K+ average views per video. 5% view-based engagement is the FLOOR,
+  7%+ is PREFERRED.** View-based, not like/follower-based, calculate accordingly.
+- **Pricing: $75-$200 per influencer**, depending on the creator's own rates. Two videos can be
+  negotiated as a $200 package. A standout creator can be paid toward the higher end of the
+  range. (This is the client's per-creator budget, separate from Azam's own Upwork
+  compensation.)
+- **Content niches the client wants** (use these instead of the generic "style creator" framing
+  below): GRWM creators, college/student lifestyle creators, affordable fashion creators,
+  men's and women's everyday fashion creators, dating/night-out lifestyle creators,
+  friend-group creators, sneaker/streetwear creators, petite/plus-size/body-inclusive fashion
+  creators, closet/outfit-organization creators.
+- Client asked whether Azam is available now to work out **access to email and Instagram +
+  TikTok accounts**, meaning he wants to hand over account access (likely for outreach/DMs from
+  the brand's own accounts, or to review inbound creator activity), separate from Azam's own
+  creator-sourcing accounts. Confirm exactly what access he means before agreeing to anything.
+
+### Remaining criteria (Azam's, still apply alongside the client's numbers above)
+
 1. **Platform:** TikTok and Instagram, both briefs list hashtags for both.
-2. **Tier:** nano (~1K-10K followers) and micro (~10K-100K followers), per section 1.
-3. **Location:** US-based creator AND majority-US audience (check the audience, not just the
+2. **Location:** US-based creator AND majority-US audience (check the audience, not just the
    creator's own location).
-4. **Content niche, kept broad:** GRWM, outfit/fit check, everyday style, closet content,
-   style-focused lifestyle creators. Do not narrow to "fashion influencer" only, the brand's own
-   testimonials range from an 18-year-old to a 30-year-old new mom (section 3).
-5. **Engagement rate over follower count:** roughly 5%+ for nano, 2-4%+ for micro, as a starting
-   bar. Watch for bot-inflated followers (comment ratio and comment quality are the tell).
-6. **Audience demographics:** check age skew (avoid a heavily under-18 audience, FTC/disclosure
+3. **Audience demographics:** check age skew (avoid a heavily under-18 audience, FTC/disclosure
    risk), gender skew can be mixed, the app is not gender-specific.
-7. **Content format match:** already camera-facing, talking-style content. A strong bonus is
+4. **Content format match:** already camera-facing, talking-style content. A strong bonus is
    creators who already show friends or roommates in their content, since both briefs lean on a
    "real friends disagreeing" dynamic (see the roommate fit check idea above).
-8. **Posting consistency:** active in the last 30 days, regular cadence, no dead accounts.
-9. **Brand safety:** no controversial or judgmental tone, briefs are explicit that StyleScore is
+5. **Posting consistency:** active in the last 30 days, regular cadence, no dead accounts.
+6. **Brand safety:** no controversial or judgmental tone, briefs are explicit that StyleScore is
    "confidence over perfection, not judgment or comparison."
-10. **Open to paid collabs:** since the app is free, a real fee is required to hit decent
-    acceptance (section 6), so prioritize creators with a track record of small paid brand
-    collabs, they already know how to negotiate and disclose.
+7. **Open to paid collabs:** prioritize creators with a track record of small paid brand collabs
+   in the $75-$200 range, they already know how to negotiate and disclose.
 
 **Still blocking real targeting precision:** iOS-only vs. also-Android is unconfirmed (section
 3). Once known, weight sourcing toward creators whose audience device split favors whichever
