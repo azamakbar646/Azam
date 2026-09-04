@@ -101,9 +101,13 @@ Creator **reshares their own post to their Story** on the day it goes live, with
 - If the page looks wrong, log out and back in. After the PIN it now asks for your name.
 - 500 codes total. As of 2026-08-25: Azam had used 10, Jacob 28.
 - Paste the code sent into that creator's tracker row.
-- **Always include this warning with the code**, because Apple confuses everyone:
+- **Always include this warning with the code**, because Apple confuses everyone. **Updated wording, Jacob 2026-09-04, use this exact version going forward** (replaces the older phrasing below it was refined from):
 
-> When it goes through, the App Store will show something like "$29.99 per year starting [date one year from today]" or "your subscription is expiring". That is exactly what it should look like. The code covers the whole first year, so nothing is charged now, and you can cancel any time before that date. Do not tap Subscribe. To check, go to Settings, then your Apple ID, then Subscriptions, and Protein8 should show as active.
+> Your code: [CODE]. When you redeem the code, Apple will show a confirmation message saying that your paid subscription starts exactly one year from today. This can look a little confusing, but you will not be charged when you confirm. The code gives you full access to Protein8 for one year completely free.
+>
+> The date Apple shows is simply the date when the free year ends and the regular subscription would begin. You can cancel anytime before then and you won't be charged anything.
+
+Older version (superseded, kept for reference only): "When it goes through, the App Store will show something like '$29.99 per year starting [date one year from today]' or 'your subscription is expiring'. That is exactly what it should look like. The code covers the whole first year, so nothing is charged now, and you can cancel any time before that date. Do not tap Subscribe. To check, go to Settings, then your Apple ID, then Subscriptions, and Protein8 should show as active."
 
 ### Payment confirmation form
 Required fields a creator physically cannot skip: **WeTransfer link** and **App Store review name**. Also has country (for W-9), two post link fields, payout method, sponsored-disclosure confirmation, usage-rights confirmation.
