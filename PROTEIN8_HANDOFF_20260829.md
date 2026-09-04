@@ -1,5 +1,5 @@
 # PROTEIN8 CAMPAIGN — FULL HANDOFF
-**Last updated: 2026-08-29** | For Azam Akbar's second laptop. If an AI assistant is reading this: this file is the single source of truth for the Protein8 creator-outreach job. Follow every rule exactly.
+**Last updated: 2026-09-03** | For Azam Akbar's second laptop. If an AI assistant is reading this: this file is the single source of truth for the Protein8 creator-outreach job. Follow every rule exactly. Section 12 at the bottom has everything new since 29 Aug, read it first for current state.
 
 ---
 
@@ -254,9 +254,8 @@ Numbered sections: 1 Compensation, 2 When you are paid, 3 How the 30 day views a
 | Jake Thomas | @jakethomasfitness | $175 Reel (20K view clause) plus $2 CPM TikTok cap $200 across up to 5 videos, plus $2 CPM Stories cap $50 at 24h | PayPal jakesiciliano13. Views slowed since he moved to Miami, he is testing formats in test reels. No date yet. |
 | Manisha Kumar | @Ironpeachmk | $80 guaranteed plus $3 CPM above 15K, cap $250 | PayPal Msbeautyspa@gmail.com. Code KJPYWJNYLY7LY7FT66 working. Draft due week of 31 Aug. |
 | Verónica M | @its.verom | $125 guaranteed plus $2 per 1,000 above 50K, IG cap $500. FB separate $2 CPM cap $250. Max $750 | Code YHLNJL3H3LWMYXLTPP sent 26 Aug. Very thorough, wants everything in writing. Price demand was 150. No date yet. |
-| Natshin | @onenatshin | Original deal $110 guaranteed plus $2 per 1,000 above 40K, cap $250. FB separate cap $250. **In flux, see section 11, 2026-08-31** | Managed by his mother **Rita Arnold** (Luckyyolme@gmail.com, second email natshinnumber1@gmail.com). Code FWA8PPLN3KK4A4Y6ML working. Video already made, pitched as a recurring "Food Series" for September. Rita asked 31 Aug if okay to post that day. |
+| Natshin | @onenatshin | $110 guaranteed plus $2 per 1,000 above 40K, cap $250. FB separate cap $250 | Managed by his mother **Rita Arnold** (Luckyyolme@gmail.com). Code FWA8PPLN3KK4A4Y6ML working. Starts using the app Mon 31 Aug. Median 48.4K. No posting date yet. |
 | Smitha (Smi Jain) | @itsminva8ion | $60 guaranteed plus $2 per 1,000 above 25K, cap $300. FB separate cap $250 | itsmivegan@gmail.com. Code redeemed, Apple screen confusion resolved 29 Aug. Median 27.7K. No date yet. |
-| Darryl Mason | @mrdmason_ | $400 guaranteed, provided the collaboration reaches 100,000 total views (~$4 CPM, in line with his median). If the first Reel falls short alone, he continues supporting with additional Reel, Story or other content until combined reach hits 100K | Email darryl@m3stk.com. Median ~98.7K. Deliverables: Reel, Story with link sticker, 48h bio link, original file for organic reposting, App Store review. Paid usage, boosting or whitelisting separate agreement. Deal agreed 1 Sept 2026, he confirmed "if you can make the $400 work, I'd be happy to move forward." No posting date yet. |
 
 ### OFFER SENT, awaiting their answer
 | Creator | Handle | Median | Offer |
@@ -326,25 +325,89 @@ Kristin T (@coachktownfit_), Abigail Schwarz, Dred (@dredbaby.price), nydasteppa
 
 ---
 
-## 11. NATSHIN / RITA — FOOD SERIES PIVOT (Jacob, 2026-08-31)
+## 11. PERFORMANCE GUARANTEE WORDING (Jacob, 2026-09-03) — USE THIS EXACT FRAMING
 
-Natshin's original deal (section 7) was a single video, $110 guaranteed plus $2 per 1,000 above 40K, cap $250, FB separate cap $250. That is now superseded, this section is the current state.
+Jacob refined how the guarantee must be explained. The guarantee is on **total reach for the collaboration**, not on the original post.
 
-**What happened:** Rita sent a video already made. Jacob's read: the app is shown too far into the video for good conversion (viewers drop off before it appears), but he does **not** want a reshoot, the friction of asking is too high relative to the gain. So the existing video goes ahead as is, no notes back to Rita on it.
+Key point: if the first Reel falls short, the creator is **not** required to keep reposting or pushing that same post. They are free to make up the remaining reach however suits them, Stories, another Reel, an additional mention, or any other content that feels natural for their audience.
 
-**Rita then pitched something bigger:** turning this into a recurring **Food Series** featuring Natshin for September, not just one sponsored video. She also raised a **"Fitness & Food" group idea**, positioning Protein8 as part of Natshin's actual journey. Jacob likes this direction and sees real long term potential in it.
+Jacob: "that makes the guarantee feel much less restrictive for the creator while still giving us the protection we want."
 
-**Jacob's reply to Rita (drafted under Azam's name, sent 2026-08-30 22:16, his own wording) laid out two paths:**
+**Standard clause to use in every offer with a performance guarantee:**
 
-1. **Standalone single collaboration, as originally agreed:** would need **one additional video** where Protein8 appears earlier, because when the app only shows at the very end a large part of the audience never sees the integration.
-2. **Recurring Food Series:** Jacob is open to a **slightly lower fixed rate per video** across the full series, in exchange for volume. Placement preference: Protein8 appearing earlier when it fits naturally, for example Natshin laying out and scanning ingredients before cooking. This does not have to be identical every episode, scanning the finished meal at the end is fine sometimes too, with the tradeoff that fewer viewers see it that time. The one hard requirement: it must feel like a natural, recognizable part of the series, not an ad inserted into every episode.
+> We guarantee a total reach of [X] views for the collaboration, measured 30 days after the first post goes live. If the first Reel reaches that number on its own, nothing else is needed. If it comes in below, you simply continue supporting the collaboration until the combined reach gets there, and how you do that is entirely up to you. It could be through Stories, an additional Reel, another mention, or any other content that feels natural for your audience. We are guaranteeing total reach for the collaboration, not asking you to keep pushing the same post.
 
-Jacob asked Rita to say how many videos she is thinking for the series so a structure and price can be worked out for both sides. **Not yet answered by Rita as of 31 Aug.**
+This directly answers the objection Lori Fetrick raised (refusing to "keep posting Stories and mentions indefinitely until a particular view count is reached"). Any future high-asker who pushes back on that basis should get this framing.
 
-**Open item:** Rita followed up 31 Aug 19:00 asking if it is okay to post **that day**, framed as "a Food Series for the fresh month of September," and asking about next steps. This has not been answered yet. Do not confirm a posting date or a series price until Jacob or the tracker reflects the agreed structure, and until it is clear whether this posts as the original single-video deal or as the first entry in a paid series (the compensation differs).
+### Jaden Lacaria deal, agreed structure (2026-09-03)
+- Instagram Reel: **$240**, performance guarantee at **80,000 total views**, 30 days. Exactly $3 CPM against the 80,000 figure **Jaden himself estimated**.
+- Facebook cross post: **$2 per 1,000 Facebook views over the same 30 days, capped at $300** (Jacob raised the standard $250 cap for him because his Facebook reach is exceptional).
+- Realistic total around **$540**, the largest collaboration to date.
+- Format agreed: full day of eating, inside 45 seconds, app on screen in the first few seconds, uncommercial, no scripted CTA, name not said out loud or in caption.
+- His Instagram median is only 28.2K. We priced on his own estimate rather than his median, which is the precedent for how to handle a creator whose reach is mostly on Facebook.
 
-**Next steps:**
-1. Get Rita's answer on video count for the series.
-2. Get Jacob to confirm the per-video rate once volume is known, keep it near the existing $2 to $4 CPM discipline unless he says otherwise.
-3. Confirm with Rita whether today's post is under the original single-video terms or the first of the series, before it goes live.
-4. Update this file and the tracker once the structure is locked.
+---
+
+## 12. SESSION UPDATE, 2026-09-03 (read this first, then cross reference sections above)
+
+Everything below happened after the Jaden Lacaria note directly above. Sections 1 to 11 are still accurate and in force, this section only adds new creators, one closed deal, and one payment problem.
+
+### DEAL CLOSED: Jason Marks, jfit.eliteathlete
+
+Agreed. Jacob approved with "Let's accept this one!"
+
+- 85.8K followers, but last 20 Reels median 119K, average 124.6K, lowest in twenty is 70.8K. Extremely consistent, better than Darryl even.
+- Jacob raised a real concern first: Jason's content mostly features his clients and young athletes training, not himself, so a personal app endorsement risked feeling out of place.
+- Jason came back with a strong concept of his own: open with the athlete and client training footage his audience expects, transition into "training is only half of it, most people underestimate their protein," then show himself using Protein8 on a real post-workout meal or restaurant choice. Positions the app as a practical tool for athletes, parents and busy adults.
+- Final structure: $100 guaranteed, covering the first 50,000 views, plus $2 per 1,000 views above 50,000, measured 30 days, capped at $400, cap reached at 200,000 views. This is a hybrid, not a performance guarantee, so it does NOT use the section 11 guarantee wording, there is no view target to hit, the $100 is unconditional.
+- Confirmed with him: Protein8 link goes into his existing Linktree, does not replace his bio link. Organic reposting only, 6 months, no paid ads or whitelisting without a separate agreement.
+- Content note sent to him: app must appear in the first few seconds, his training footage can carry the hook, no scripted call to action, no need to say the name out loud.
+- Next step: waiting on his posting date and payout preference. Do not ask proactively per section 1 rule 3, wait for the confirmation form.
+
+### DEAL IN PROGRESS: Jaden Lacaria, jadenlacaria, Facebook heavy creator
+
+Important precedent case, read this before pricing any creator who is big on Facebook.
+
+- 223K followers. He claimed 40 million views past month and sent real Meta Business Suite screenshots proving it: 39.4M views over 28 days, 39.33M of it from non-followers. But this is almost entirely Facebook. His top Facebook posts hit 7.1M, 5.7M, 3.2M, 2.7M. His actual Instagram Reels median is only 28.2K.
+- Lesson: when a creator quotes a huge monthly or account wide number, always check which platform it is actually coming from before pricing. We buy one video, not a month of a different platform's traffic.
+- Jacob's method for this one: do not price off our own median calculation, ask the creator to estimate the video's own reach themselves, then hold them to that number via a performance guarantee. Also asked him what format he would suggest and whether "what I eat in a day" fits.
+- Jaden estimated 80,000 minimum, likely 100,000 plus if kept under 45 seconds, for a full day of eating video.
+- Agreed structure: Instagram Reel $240, performance guarantee at 80,000 total views, his own number, priced at exactly $3 CPM, using the section 11 guarantee wording so he can make up any shortfall however suits him, not required to repost the same video. Facebook cross post $2 per 1,000 views, 30 days, capped at $300, Jacob raised the usual $250 cap for him specifically because his Facebook reach is exceptional. Realistic total around $540, the largest deal to date.
+- Format: full day of eating, kept inside 45 seconds, app on screen in the first few seconds, uncommercial, no scripted call to action, name not said out loud or in caption.
+- Status: offer sent with this structure, awaiting his reply.
+
+### PENDING JACOB DECISION (carried over, still open)
+
+- Artem D, bigasian_fit, 270K followers, median 147K, several reels 1M to 2.5M, the single strongest account found. Proposed $400 guaranteed plus $2 per 1,000 above 200,000 cap $1,500. He refuses a bio link, it is his own funnel, but offered a comment to DM automation instead, which is better for us. Still needs Jacob's explicit yes before this goes to Artem.
+- Darryl Mason, mrdmason_, only 11K followers but median 98.7K across 30 reels, tightest range seen, 66.7K to 155K, zero outliers. Proposed $300 flat or $200 guaranteed plus $2 above 100K cap $600. Jacob flagged a real concern: low followers on high views means people watch but do not follow, audience may be passing traffic rather than loyal fans, worth weighing for an app install goal. Still needs Jacob's explicit yes.
+
+### NEW OFFERS SENT, awaiting creator reply
+
+- Samuel Nice, samuel_nice, median 27.6K, average 107.5K with 4 videos over 100K. Offer: $90 flat or $60 plus $2 above 25K cap $500.
+- Jaylen Askew, wealthywishes, recent reels actually 20K to 40K, the initial 90.4K median included stale high posts, Jacob caught this, always check how recent the high view posts actually are. Offer sent as two options: Option 1, $270 with a 90,000 total reach guarantee using the section 11 wording. Option 2, $100 guaranteed plus $2 above 30K cap $450. TikTok cross post offered as an add on.
+- Pierre Vuala, pierre_vuala, median 50.4K. Offer: $160 flat or $110 guaranteed plus $2 above 55K cap $600 hybrid. First time explaining hybrid mechanics from scratch since he had never done one.
+- Tyler Sibley, tsibs_ifbbpro, last 10 posts around 15.5K and trending up, older posts lower, one recent hit 152K. Offer: $55 flat or $40 plus $2 above 18K cap $300, plus Facebook cross post cap $250 and TikTok cross post cap $200 since he is active on all three.
+- Chris Anderson, anderfit05, median 22.8K, average 41.1K, some up to 183K. Offer: $80 flat or $55 plus $2 above 25K cap $400. He asked "how much are we talking?" twice via DM, same offer sent both times, waiting on an email address.
+
+### PASSED
+
+- Alyssa Ciceron, bodyby_lyss, median 17.85K, first offered $60 flat or $45 plus CPM, she came back demanding $600 minimum, way outside the model, around $34 CPM. Passed with the standard "too far apart" wording.
+
+### STILL WAITING ON EMAIL ADDRESS (DM stage only, no brief sent yet)
+
+- Kiley Katsantonis, kileykatsantonis, asked for address.
+- Ruu, official_bigruu, quoted 850K to 1 million page views per month. Told him we price per video not per month before asking for his address, still need his actual Reel median once he replies.
+- Matt Trammel, tramfitsix, asked for address.
+- Lady Vargas, ladyfitx3, asked her to either quote her own rate or let us pull her median ourselves, no reply yet.
+
+### PAYMENT PROBLEM: Wise transfer to Rita and Natshin failed
+
+Jacob's Wise Business account application was rejected, "we're currently not able to open an account for your business", so the Wise transfer to Rita for Natshin did not go through even though Jacob attempted it. Fix in progress: asked Rita for a PayPal address instead so the payment can be re-sent that way. If any other creator's payout also seems stuck, check whether it was attempted via Wise, this is a systemic issue on Jacob's account, not a per-creator problem.
+
+### PRICING METHOD REFINEMENT (apply going forward)
+
+When calculating a median, do not just average all roughly 20 reels blindly, check whether the account's engagement has shifted over time. Jaylen Askew's case: his full 17 post median came out to 90.4K, but his most recent 5 posts were all sitting at 20K to 40K. Jacob caught this and it changed the whole offer. Going forward: always look at whether the last 5 to 10 posts differ meaningfully from the full sample, and price off the more recent trend if there is a clear shift, flagging both numbers to Jacob if it is a large enough account to matter.
+
+### MISC FILE NOTE (probably unrelated to the Protein8 job, logged for completeness)
+
+A file named "high protein" in Downloads was actually a CSV, creator list with Username, Business Email, Name, Profile Link columns, 1,765 rows, 684 with an email, saved without a .csv extension. Copied to high_protein.csv in Downloads. Not yet cross referenced against the Protein8 targeting criteria, no action taken on it, unclear if it belongs to this job or a different one, worth asking Azam.
