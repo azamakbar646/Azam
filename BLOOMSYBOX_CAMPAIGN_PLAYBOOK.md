@@ -243,6 +243,13 @@ Would you mind resending the original video in its full quality? Uploading via W
 ```
 (Common cause: sent straight from IG/WhatsApp chat, which compresses video. WeTransfer or a direct camera-roll upload keeps original resolution.)
 
+### V. Creator has an ALLERGY or flower sensitivity (flag, don't guarantee)
+```
+Thank you so much, and thank you for letting us know! 🌸 We'll flag [the allergy] with our team so they can keep it in mind. Our bouquets are a curated seasonal selection so we can't guarantee specific stems, but we'll do our best to avoid [flower] for you.
+Could you share your shipping details whenever you're ready, and we'll get your BloomsyBox on its way! 💐
+```
+(Different from a styling preference: this is a safety flag, not a substitution promise. Note it for Diana/team, same as a quality issue, section 7. Never promise a specific stem will be excluded, curated selection means no guarantee, rule per Template S.)
+
 ---
 
 ## 5. TARGETING CRITERIA (set by client Abbey Wilson, Aug 2026)
