@@ -13,3 +13,9 @@ Never let a message draft (email replies, follow-ups, shipping confirmations, et
 - Content guideline (Canva) link: https://canva.link/uz2xdslf1duch77
 - Tone: premium, discovery-led, not a hard sell; close-up visuals when possible; connect the product story back to Costco
 - This is a separate campaign from the other 8 (Espoir, Amos Professional, Nature Republic Vitapair C PDRN Serum, ELROEL, Honeyque, SCAPES, JAYJUN, Dr.FORHAIR) — do not mix up with the Vitapair C PDRN Radiance Serum campaign, which is also Nature Republic but a different product.
+- Product Deck details (from the brand's own slides, for background/talking points if an influencer asks for more info — not necessarily things to recite verbatim in every reply):
+  - Tagline: "Start of Golden Miracle" — "Oriental Luxury to deliver value of beauty with precious ingredients"
+  - "5 precious ingredients fight against aging signs": (1) Gold — vitalizes and glows skin; (2) 6-Year Ginseng — ginsenoside extracted from 6-year-old ginseng by 4 hours at 80°C, energizes skin; (3) Silk Amino Acid — softens skin surface with silky texture; (4) 3-Times Filtered Royal Jelly — found in Jiri Mountain; (5) 1,000:2 Condensed Saponin — 2g extracted out of 1,000g of ginseng
+  - Awards: Winner of 19 awards, including 2016-2023 Monde Selection Gold Award, 2020 One Day One Editor's Pick, 2020 Singles Award Anti-Aging, 2016 Ceci K-Beauty Awards, 2016 BNT International Beauty Brands Awards in Xiamen, 2015 BNT Asia Beauty Awards, 2015 BNT Shanghai Asia Brands Awards, 2015 Hankuk Ilbo Korea Beauty Industry Grand Prize, 2015 At Style Real Blind Anti-Aging 1st Prize
+  - Customer quotes: "Skin became moist and glow after usage", "Skin feels elastic and plumped", "Skin is softer and more sleek"
+  - Technology: "Elixir Barrier Mechanism" — Elixir Barrier Technology helps moisturize, nourish, and protect skin
