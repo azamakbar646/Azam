@@ -1,5 +1,7 @@
 # BYOU Influencer Gifting: Reply Drafting Notes
 
+Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
+
 ## Standing rules
 - NEVER include GitHub repository links in any message draft (including accidental auto-links like "#1148"). If a real link is missing, say so in plain text. Never use a placeholder link.
 - Never fabricate links or details. If unknown, ask the user.
@@ -44,6 +46,15 @@
 - Content guideline: https://canva.link/uz2xdslf1duch77
 - Approved text: "Once you receive the product, please post 1 short-form video. Be sure to mention it's back at Costco for the 5th time, capture the gold flakes clearly, and highlight the Costco price ($49.99)."
 - Tags: @naturerepublic.us (IG) / @naturerepublic (TikTok). Product deck URL unknown.
+- Product: 2.46 oz / 70.8 g. Key ingredients: 99.9% pure gold flakes, 6-year Korean red ginseng extract, silk amino acids, royal jelly, concentrated ginseng saponin.
+- Outreach email template said TikTok "@naturerepublic_official"; Canva guide says "@naturerepublic". Use @naturerepublic and flag if it matters.
+- Tone: premium, discovery-led, not a hard sell; close-up visuals; connect back to Costco.
+- Don't mix up with the Vitapair C PDRN serum (also Nature Republic, different campaign).
+- Product deck talking points (background only, if asked):
+  - Tagline: "Start of Golden Miracle". Oriental luxury with precious ingredients.
+  - 5 precious ingredients: Gold (vitalizes, glow); 6-Year Ginseng (ginsenoside extracted 4 hours at 80°C); Silk Amino Acid (silky texture); 3-Times Filtered Royal Jelly (Jiri Mountain); 1,000:2 Condensed Saponin (2g from 1,000g ginseng).
+  - Winner of 19 awards incl. 2016-2023 Monde Selection Gold Award.
+  - Technology: Elixir Barrier Mechanism (moisturize, nourish, protect).
 
 ## Espoir Water Splash Sun Serum
 - Form: https://docs.google.com/forms/d/e/1FAIpQLSduT2-HG9Tu5CHPvVExjMtPWghL8M0bpDRnVKVH1TH-Rh_N1g/viewform?usp=header
