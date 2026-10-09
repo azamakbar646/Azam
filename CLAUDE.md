@@ -20,8 +20,15 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Costco product page (must be inserted in the IG story):
   https://www.costco.com/p/-/elroel-pang-pang-yellow-sun-cushion-and-refill-53-oz-set/4201027967?langId=-1
 - Deliverables: at least 1 video (IG Reel, TikTok, or YT Short) + 1 IG Story with the Costco.com product link.
+- WHEN AN INFLUENCER SAYS INTERESTED: send ONLY the short "After Confirmation" message with the form link (user instruction). Do NOT repeat the brand deck, content guideline, Costco link, tags, hashtags or mandatory mentions; those are already in the initial outreach email. No audience check before the form.
+- After Confirmation template:
+  "Hi [Name],
+  Thank you for your interest and for confirming with us! If you'd like to join us in introducing an effortless sun care routine with ELROEL, please fill out your shipping information via the Google Form below:
+  [form link]
+  Please note that this link is confidential and should not be shared or distributed publicly.
+  Best,
+  BYOU Team"
 - Deadline: NOT specified in the materials. Ask the user if needed.
-- Audience check: NOT specified. Ask the user whether a U.S. audience check is needed before sending the form.
 - Mandatory mentions:
   - On Costco.com the cushion + refill set is $39.99, about $11 less than buying separately on Amazon ($51.20).
   - NO Costco membership needed to buy on Costco.com.
