@@ -33,7 +33,9 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   - On Costco.com the cushion + refill set is $39.99, about $11 less than buying separately on Amazon ($51.20).
   - NO Costco membership needed to buy on Costco.com.
   - Must emphasize: easy reapplication anytime, anywhere; no messy hands (large puff).
-- Tag: @elroel_global
+- Tags (Seulgi/Sohyeon update: tag BOTH accounts):
+  - Instagram: @elroel_global + @elroel_us
+  - TikTok: @elroel.us.official + @elroel.global
 - Must-use hashtags: #elroel_byou #elroel #suncushion #costco #costcofinds
 - Bonus hashtags: #kbeauty #viralmakeup #sunprotection #makeupfriendly #suncare
 - Key claims: SPF 50+ PA++++, broad spectrum, water-resistant (80 min), 7-proof (UVA/UVB/water/sweat/exercise/sand/dirt), instant -4.9°C cooling, 72-hour moisture (+115% hydration), 0.00% skin irritation index (brand clinical testing).
@@ -44,7 +46,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   3. Stitching the Viral Moments (stitch/green screen a viral UV camera, cooling, or water-resistance clip, then pick ONE benefit).
   - CTA for all: "Available now at Costco.com (No membership required!)"
 - Avoid: only showing packaging with no live demo, missing the Costco / no-membership mention, putting down other brands, heavy filters, poor lighting.
-- Tag reminder template: "Hi! Thank you again for collaborating with ELROEL. We have one small request: could you please make sure to tag @elroel_global in your post if you haven't already? We'd really appreciate it. Thank you so much for your support!"
+- Tag reminder template: "Hi! Thank you again for collaborating with ELROEL. We have one small request: could you please make sure to tag both ELROEL accounts in your post (Instagram: @elroel_global and @elroel_us / TikTok: @elroel.us.official and @elroel.global) if you haven't already? We'd really appreciate it. Thank you so much for your support!"
 
 ## Nature Republic Ginseng Gold Silk Watery Cream ("Gold Cream", 5th Costco restock, $49.99)
 - Step 1: ask for an audience demographics / top countries screenshot, share the gold flakes reference video https://www.tiktok.com/@songofskin/video/7380420660977241375?lang=en and ask for a before & after (about 7 days is enough; works as an overnight sleeping pack).
