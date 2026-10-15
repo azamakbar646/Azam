@@ -9,6 +9,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - All campaigns are gifted only. Decline paid requests politely and invite gifted participation.
 - If an influencer emails their address, redirect them to the official shipping form.
 - U.S. shipping only.
+- Write every message draft in English only (user instruction). No Spanish or other translated versions, even if the influencer writes in another language. Flag possible non-U.S. location in a short note instead.
 - A second confirmation from the same person starts with: "This is X's second confirmation, this time for ...".
 
 ## ELROEL Pang Pang Sun Cushion PLUS x Costco (Fall campaign)
