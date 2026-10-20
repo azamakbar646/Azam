@@ -94,3 +94,17 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 
 ## Form access issues
 - If influencers can't open a form: Settings > Responses > turn OFF "Restrict to users in your organization" and set "Collect email addresses" to "Responder input" (not "Verified"). Shared decks/guides need "Anyone with the link" (Viewer).
+
+## ESSENPICK Mucinchiol Cream (new campaign, started Oct 20)
+- Outreach subject: "[Gifted Collaboration] Try ESSENPICK Mucinchiol Cream". Gifted collaboration; creators reply to the email to confirm.
+- Product: ESSENPICK Mucinchiol Cream. Rich, elastic moisturizer with plant-derived Phyto Mucin (also Bakuchiol, Adenosine on the jar). Helps provide lasting hydration, reduce moisture loss, improve the look of dry, rough skin. Soft, smooth, comfortably moisturized feel. Good for nighttime routines and intensive moisture care.
+- Brand Deck and Content Guidelines links exist in the outreach email but the URLs are NOT visible in screenshots. Ask the user for them before putting links in any draft.
+- Shipping form, deliverables, deadline, tags and hashtags: NOT known yet. Ask the user.
+- Content guidelines (from the slides):
+  - Pick 2-3 talking points that fit the creator's real experience, no need to force all.
+  - Texture: "satisfying, stretchy cream texture" (show stretch from spatula/finger before applying).
+  - Feel: "Rich and cushiony, but it spreads smoothly."
+  - Moisture: "My skin feels sealed in with moisture." Great for PM routines, dry-weather skin.
+  - Finish: "soft, fresh, well moisturized". Natural skin texture, no heavy filters or over-retouching.
+  - Angles (variety across the seeding campaign): Texture Moment (lead with the stretch), PM Routine (make it the last step), Dry-Skin Reset (start with the skin need).
+- Avoid over-claiming; say "helps" and "appearance of dry, rough-looking skin".
