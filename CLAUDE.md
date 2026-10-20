@@ -109,3 +109,9 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   - Angles (variety across the seeding campaign): Texture Moment (lead with the stretch), PM Routine (make it the last step), Dry-Skin Reset (start with the skin need).
 - Avoid over-claiming; say "helps" and "appearance of dry, rough-looking skin".
 - How to use (from the brand deck): apply evenly to the skin every morning and evening after using essence. Tip: firm, non-sticky, nutrient-rich formula helps boost skin elasticity.
+- Brand deck talking points (background, from the deck slides):
+  - Tagline: "Essencpick's Exclusive Pore Firming Solution Mucinchiol(TM)" = Phyto mucin + Bakuchiol + Adenosine.
+  - "Made with patented phyto-mucin & bakuchiol. Firms the skin while providing elasticity. Reduces & tightens pores." Vegan (no animal-based ingredients).
+  - Phyto mucin from okra and molokhia; "Stronger yet gentler than snail mucin, cruelty free". Helps boost skin elasticity and protects with antioxidant benefits.
+  - Benefit list: Skin Firming, Moisture Retention, Gentle & Non-Irritating, Wrinkle Improvement, Pore Care. Headline: "Tight Pore Care, Firm Skin Elasticity".
+  - Clinical claim on the deck: "100% improvement in elasticity beneath the pores" = percentage of participants who experienced improvement after a single use. Human application test, 21 adult women, 2024.06.21-2024.07.15, P&K Skin Clinical Research Center. If used, always give it as "100% of participants" after a single use, never as a general 100% improvement claim, and confirm with the user first.
