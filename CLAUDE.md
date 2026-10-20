@@ -108,3 +108,4 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   - Finish: "soft, fresh, well moisturized". Natural skin texture, no heavy filters or over-retouching.
   - Angles (variety across the seeding campaign): Texture Moment (lead with the stretch), PM Routine (make it the last step), Dry-Skin Reset (start with the skin need).
 - Avoid over-claiming; say "helps" and "appearance of dry, rough-looking skin".
+- How to use (from the brand deck): apply evenly to the skin every morning and evening after using essence. Tip: firm, non-sticky, nutrient-rich formula helps boost skin elasticity.
