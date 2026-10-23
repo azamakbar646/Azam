@@ -74,6 +74,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Creator Guide / Product Deck links: unknown.
 
 ## AMOS Professional Green Tea Active Shampoo
+- PAUSED (Seulgi Lee, Teams, Oct 23): due to an inventory issue AMOS seeding product will NOT be sent at this time. Do NOT send the AMOS shipping form or accept new AMOS confirmations. Reply to AMOS creators with a short apology: we unfortunately can't send the product at this time due to an inventory issue, sorry for the change, we'll reach out again if the campaign reopens. Promise nothing else. 16 creators were listed in the seeding sheet (rows 6513-6528 on Oct 23).
 - Form (CONFIDENTIAL): https://docs.google.com/forms/d/1y6e3Qmu510lTf1VdtHvWwqZClqN8q0x4z9W1cwrHv4I/edit
 - Short video/review + story within 2-3 weeks; mention available exclusively at Costco. One 500mL bottle per creator.
 - Tag @amosprofessional_global. Hashtags: #amosprofessional #CostcoFinds #CostcoBeauty #ScalpCare #HealthyScalp #HairThinning #HairLoss #HairVolume
