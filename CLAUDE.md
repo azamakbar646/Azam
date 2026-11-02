@@ -127,4 +127,9 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Premium / higher-end product. Sohyeon updated the campaign materials (links not visible in the screenshot, ask the user for them).
 - Google Form: the user (Irfan) must set up a Google Form for this and share it with Sohyeon for a quick review BEFORE sending it out. Do not send any form to creators until Sohyeon has reviewed it.
 - Target creators: avoid creators who skew too young. Focus on women in their late 20s and above with high-quality content.
-- Still unknown: product name, deliverables, deadline, tags, hashtags, platform, shipping form link, brand deck / content guideline links, whether gifted-only (assume gifted only, per standing rules). Ask the user.
+- Product: cepoLAB Biogenic Essence 90% CLEPS (outreach started Nov 1; creators reply to the email to confirm; the email says by continuing they agree it is a Gifted Collaboration). Korea's #1 Bio-Essence, over 9 million bottles sold in Korea, ranked Olive Young's #1 Skincare Essence, 90% pure patented CLEPS and only 5 ingredients. Now at U.S. Costco (in-store and Costco.com).
+- Pricing: $49.99 at Costco vs about $80 on Amazon (save about $30).
+- Deliverable: 1 piece of content. Content focus: product experience, Costco availability, about $30 savings vs Amazon, Korea's 9M-seller holy grail. Product Deck and Content Guideline links are in the initial outreach email (URLs not visible in screenshots).
+- cepoLAB shipping form (provided by the user, Nov 2): https://docs.google.com/forms/d/e/1FAIpQLSfkmHjNJLJiTCNK6SxkJ269iimk9rVk5A3BFpsVyxf6XGTxbw/viewform?usp=header . Unconfirmed whether Sohyeon has reviewed it; remind the user. Whether the form is confidential is unknown.
+- cepoLAB reply rules: the initial email already has the Product Deck and Content Guideline, so do not resend them when sending the form. Costco IS the CTA here (unlike ESSENPICK).
+- Still unknown: deadline, tags, hashtags, platform (video vs photo), whether a story is required, form confidentiality. Ask the user; never invent.
