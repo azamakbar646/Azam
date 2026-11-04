@@ -83,6 +83,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - If their Costco doesn't carry it: show the Costco website/app, real usage, and a before/after.
 
 ## Dr.FORHAIR Folligen Original Shampoo
+- STOPPED (Seulgi Lee, Teams: first asked Oct 23, repeated Nov 4): stop ALL Dr.FORHAIR seeding activities. Do NOT send the Dr.FORHAIR form or accept new Dr.FORHAIR confirmations. Reply to Dr.FORHAIR creators with a short apology: we unfortunately can't send the product at this time, sorry for the change, we'll reach out again if the campaign reopens. Promise nothing else. The user restarted outreach by mistake in early Nov and apologized to Seulgi. Earlier Dr.FORHAIR notes below are history only.
 - Form: https://docs.google.com/forms/d/e/1FAIpQLSdkPXUBMtWYkTzs5wDnPKkie7cpCeYglBnbyO_xfXd-cDmbVw/viewform
 - 1 review + 1 story tagging @drforhair.global within 2 weeks; email post link + story screenshot. Hashtags not confirmed.
 - Gifted seeding only (not wholesale). The 83.2% data is for the THICKENING shampoo, don't cite it for Original.
