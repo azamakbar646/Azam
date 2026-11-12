@@ -161,7 +161,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   - How to use (deck): after cleansing, wait for skin to dry, apply Biogenic Essence in 3 layers letting each absorb fully, then continue the routine. Deck also stresses sustainability (clear bottle, plastic-free wrapping, FSC paper, soy ink).
 - UPDATED cepoLAB outreach email (seen Nov 3, newer than the first version): Content = "1 Content (reel or post) + 1 Story (include the costco.com link)". Note: "Target launch is expected around Nov 10. If your posting date is before the product goes live online, you can simply reshare the content to your Story without the link sticker." Earlier emails said only "1 piece of content". Product Deck and Content Guideline links are still in the email. The guideline PDF says vertical video + IG Story, so "reel or post" is still slightly different; not yet confirmed by Sohyeon.
 - Still unknown: posting deadline (ask the user) and whether Sohyeon has approved the form.
-- Later cepoLAB outreach versions (Nov 5, Nov 9-11) say "1 Reel/Post + 1 Story" and "$49.99 at Costco vs. $80 on Amazon". The Nov 8 template said "1 piece of content". Still an open question for Sohyeon. Drafts say "as outlined in our initial email" and leave out the deadline and the tags until this is confirmed.
+- CONFIRMED by the user (Nov 12): the correct cepoLAB deliverable is "1 Reel/Post + 1 Story" (the newer outreach versions of Nov 5 and Nov 9-11, with "$49.99 at Costco vs. $80 on Amazon"). There is no other version; "1 piece of content" in the old template is outdated. Drafts can now state the deliverable and the tags (@cepolab.global, plus @costco from the guideline) instead of "as outlined in our initial email". Still unknown: posting deadline and whether Sohyeon has reviewed the form.
 - Many cepoLAB creators asked for paid rates (UGC creators). Reply gifted-only, no form.
 
 ## goodal Green Tangerine Vita-C Spot Care Serum (new campaign, started Nov 9-10)
@@ -169,12 +169,16 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Shipping form (use this link, NOT the "usp=publish-editor" link): https://docs.google.com/forms/d/e/1FAIpQLSfnu_fJlvKezBs9IU2K7KsLa8wxyq6bcLWeuV--M6tzRVbB1Q/viewform
 - Form asks creators to confirm they are in the U.S. and to keep it confidential. The form showed Google sign-in and "Record collab@byouclub.com as the email" (fix: set "Collect email addresses" to "Responder input", turn off "Restrict to users in your organization", test in incognito).
 - Brand Deck and Content Guideline: user uploaded PDFs (share links NOT known). The links are inside the outreach email. When a creator is interested, send the After Confirmation with the form and key points below (no audience check). Do not invent deck or guideline links.
-- After Confirmation (key points): gifted collaboration, product sent free; 1 short-form video within 2 weeks of receiving the product; tags; mentions; content ideas.
-- Tags (UNCONFIRMED, taken from the form header): Instagram @goodal_official_global, TikTok @goodal_official_us. Hashtags: not known.
+- DELIVERABLES (guideline slide 10, "Deliverables & Posting Checklist", the LAST slide of the Content Guidelines PDF): vertical video (TikTok / IG Reel / YT Short, 9:16) + 1 IG Story with a direct Costco link sticker. Note: the outreach email says only "1 short-form video" / "one piece of content"; use the guideline version (video + Story) in drafts.
+- After Confirmation (key points): gifted collaboration, product sent free; 1 vertical video + 1 IG Story (with Costco link sticker) within 2 weeks of receiving the product; tags; hashtags; mentions; CTA; content ideas.
+- Tags (CONFIRMED, guideline slide 10): Instagram @goodal_official_global, TikTok @goodal_official_us.
+- Mandatory hashtags (guideline slide 10): #Costco #CostcoFinds #KBeauty #Goodal #GoodalVitaminC #GoodalGreenTangerine
+- CTA (guideline slide 10): "Available now at Costco and Costco.com for just 2-pack $31.99 ($16/bottle), cheaper than Amazon ($21.90) or Olive Young ($31)"
 - Mentions (from the guideline): available at Costco (Costco.com); 2-pack $31.99 ($16 per bottle), cheaper than Amazon ($21.90) or Olive Young ($31); clinically proven dark spot improvement in 7 days; Olive Young's #1 Serum/Essence for the 7th time with 10M bottles sold. Prices may change, check before sending.
 - Content ideas (from the guideline): "10M bottles sold, now at Costco"; "Olive Young's #1 serum, now at Costco"; "7 days, visible difference" Day 1 vs Day 7.
 - Claims caution: the guideline says "clinically proven dark spot improvement in 7 days", but the deck's clinical study is 4 weeks (20 participants). The deck's "After 2 weeks" before/after image covers Toner Pad, Serum and Cream together and is "not based on a clinical study". Do not reuse it. Creators should use the brand's wording only. Guideline typos: "live Young's #1 Serum", "10 million bottle".
-- Unknown: usage rights, confidentiality of the campaign beyond the form, review process, deadline after posting, hashtags, shipping-cost coverage. Ask the user.
+- Unknown: usage rights, confidentiality of the campaign beyond the form, review process, deadline after posting, shipping-cost coverage. Ask the user.
+- LESSON: always read the WHOLE guideline/deck PDF including the last slide before saying something is unknown. For goodal the tags, hashtags and Story requirement were on the last slide (slide 10) and were missed at first.
 
 ## re:nk Cell to Cell Cream (new campaign, started Nov 9)
 - Outreach subject: "Costco.com Favorite, Now In Stores | re:nk Cell to Cell Cream". "Seeding campaign": product now coming to Costco stores after a successful Costco.com launch. Product Seeding, gifted only.
