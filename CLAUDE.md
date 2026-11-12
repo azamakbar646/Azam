@@ -66,7 +66,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Tags: @naturerepublic.us (IG) / @naturerepublic (TikTok). Product deck URL unknown.
 - Nov 10: a creator (Monique Troncoso) said the TikTok reference video link did not open for her. Test it before sending; if broken, ask the user for a working reference video. Say the account is @songofskin if the link fails.
 - Outreach price banner shows $49.99 but "Campaign Highlights" shows $48.99 (mismatch, never put a price in drafts unless asked).
-- Gold Cream guideline link is already in the outreach, so do not resend it in the audience-check message. Routine-style multi-product videos (Get Unready With Me, nighttime routine): NOT decided, ask the user before approving.
+- Gold Cream guideline link is already in the outreach, so do not resend it in the audience-check message. Routine-style multi-product videos (Get Unready With Me, morning/nighttime skincare routine): ALLOWED (user, Nov 12). The Gold Cream must still be clearly featured (mention it's back at Costco for the 5th time, show the gold flakes clearly, highlight the Costco price $49.99). The audience check still applies before the form.
 - Product: 2.46 oz / 70.8 g. Key ingredients: 99.9% pure gold flakes, 6-year Korean red ginseng extract, silk amino acids, royal jelly, concentrated ginseng saponin.
 - Outreach email template said TikTok "@naturerepublic_official"; Canva guide says "@naturerepublic". Use @naturerepublic and flag if it matters.
 - Tone: premium, discovery-led, not a hard sell; close-up visuals; connect back to Costco.
