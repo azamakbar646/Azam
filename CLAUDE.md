@@ -11,6 +11,13 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - U.S. shipping only.
 - Write every message draft in English only (user instruction). No Spanish or other translated versions, even if the influencer writes in another language. Flag possible non-U.S. location in a short note instead.
 - A second confirmation from the same person starts with: "This is X's second confirmation, this time for ...".
+- Decline "product with no posting commitment" requests and paid/flat-fee/UGC-rate requests (including from agencies and managers): confirm gifted only, invite gifted participation, promise nothing about future paid work, never repeat or negotiate their rate. Do not send the form to someone who has not agreed to gifted.
+- If a creator's email address/phone/shipping address appears in their email, do not repeat it and tell them to use the official shipping form. Do not copy it into the sheet from the email.
+- No blanks in drafts: if the creator's name is unknown, write "Hi there". Never use pronouns for a creator unless they stated them (use they/them or no pronoun).
+- Never open links creators send (portfolios, rate cards, media kits). Flag them to the user instead.
+- Drafts may promise only "we'll confirm with the brand and let you know" for unknown usage rights, and the user must follow up. Flag that promise in the notes.
+- Each draft ends with a "Notes for you (Irfan)" block: name mismatch between outreach greeting, sender name and signature, possible non-U.S. location, other campaigns, deliverables not confirmed, links untested.
+- Creators in two campaigns (second confirmation): keep the threads separate and never mention the other campaign in the draft.
 
 ## ELROEL Pang Pang Sun Cushion PLUS x Costco (Fall campaign)
 - Product: ELROEL Pang Pang Sun Cushion Plus (gift). Sold on U.S. Costco.com, cushion + refill set.
@@ -47,6 +54,7 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   3. Stitching the Viral Moments (stitch/green screen a viral UV camera, cooling, or water-resistance clip, then pick ONE benefit).
   - CTA for all: "Available now at Costco.com (No membership required!)"
 - Avoid: only showing packaging with no live demo, missing the Costco / no-membership mention, putting down other brands, heavy filters, poor lighting.
+- Outreach subject: "[Gifted Collab]] ELROEL x COSTCO: Experience the Ultimate Sun Care! [Fall Campagin]" (typos in the real subject line). The outreach says replying confirms the creator agrees it is a Gifted Collaboration. Confirmed again in the outreach seen Nov 11-12: Activity "at least 1 video content (Instagram Reels or TikTok) + IG story [must insert link Costco product page]".
 - Tag reminder template: "Hi! Thank you again for collaborating with ELROEL. We have one small request: could you please make sure to tag both ELROEL accounts in your post (Instagram: @elroel_global and @elroel_us / TikTok: @elroel.us.official and @elroel.global) if you haven't already? We'd really appreciate it. Thank you so much for your support!"
 
 ## Nature Republic Ginseng Gold Silk Watery Cream ("Gold Cream", 5th Costco restock, $49.99)
@@ -56,6 +64,9 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Content guideline: https://canva.link/uz2xdslf1duch77
 - Approved text: "Once you receive the product, please post 1 short-form video. Be sure to mention it's back at Costco for the 5th time, capture the gold flakes clearly, and highlight the Costco price ($49.99)."
 - Tags: @naturerepublic.us (IG) / @naturerepublic (TikTok). Product deck URL unknown.
+- Nov 10: a creator (Monique Troncoso) said the TikTok reference video link did not open for her. Test it before sending; if broken, ask the user for a working reference video. Say the account is @songofskin if the link fails.
+- Outreach price banner shows $49.99 but "Campaign Highlights" shows $48.99 (mismatch, never put a price in drafts unless asked).
+- Gold Cream guideline link is already in the outreach, so do not resend it in the audience-check message. Routine-style multi-product videos (Get Unready With Me, nighttime routine): NOT decided, ask the user before approving.
 - Product: 2.46 oz / 70.8 g. Key ingredients: 99.9% pure gold flakes, 6-year Korean red ginseng extract, silk amino acids, royal jelly, concentrated ginseng saponin.
 - Outreach email template said TikTok "@naturerepublic_official"; Canva guide says "@naturerepublic". Use @naturerepublic and flag if it matters.
 - Tone: premium, discovery-led, not a hard sell; close-up visuals; connect back to Costco.
@@ -150,3 +161,37 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
   - How to use (deck): after cleansing, wait for skin to dry, apply Biogenic Essence in 3 layers letting each absorb fully, then continue the routine. Deck also stresses sustainability (clear bottle, plastic-free wrapping, FSC paper, soy ink).
 - UPDATED cepoLAB outreach email (seen Nov 3, newer than the first version): Content = "1 Content (reel or post) + 1 Story (include the costco.com link)". Note: "Target launch is expected around Nov 10. If your posting date is before the product goes live online, you can simply reshare the content to your Story without the link sticker." Earlier emails said only "1 piece of content". Product Deck and Content Guideline links are still in the email. The guideline PDF says vertical video + IG Story, so "reel or post" is still slightly different; not yet confirmed by Sohyeon.
 - Still unknown: posting deadline (ask the user) and whether Sohyeon has approved the form.
+- Later cepoLAB outreach versions (Nov 5, Nov 9-11) say "1 Reel/Post + 1 Story" and "$49.99 at Costco vs. $80 on Amazon". The Nov 8 template said "1 piece of content". Still an open question for Sohyeon. Drafts say "as outlined in our initial email" and leave out the deadline and the tags until this is confirmed.
+- Many cepoLAB creators asked for paid rates (UGC creators). Reply gifted-only, no form.
+
+## goodal Green Tangerine Vita-C Spot Care Serum (new campaign, started Nov 9-10)
+- Outreach subject: "Olive Young's #1 Vitamin C Serum by goodal, Now at Costco". Product: goodal Green Tangerine Vita-C Spot Care Serum. The outreach says "one piece of content" and "Content: 1 short-form video". The guideline PDF calls the product "Vitamin-C Serum Alpha"; use the email name.
+- Shipping form (use this link, NOT the "usp=publish-editor" link): https://docs.google.com/forms/d/e/1FAIpQLSfnu_fJlvKezBs9IU2K7KsLa8wxyq6bcLWeuV--M6tzRVbB1Q/viewform
+- Form asks creators to confirm they are in the U.S. and to keep it confidential. The form showed Google sign-in and "Record collab@byouclub.com as the email" (fix: set "Collect email addresses" to "Responder input", turn off "Restrict to users in your organization", test in incognito).
+- Brand Deck and Content Guideline: user uploaded PDFs (share links NOT known). The links are inside the outreach email. When a creator is interested, send the After Confirmation with the form and key points below (no audience check). Do not invent deck or guideline links.
+- After Confirmation (key points): gifted collaboration, product sent free; 1 short-form video within 2 weeks of receiving the product; tags; mentions; content ideas.
+- Tags (UNCONFIRMED, taken from the form header): Instagram @goodal_official_global, TikTok @goodal_official_us. Hashtags: not known.
+- Mentions (from the guideline): available at Costco (Costco.com); 2-pack $31.99 ($16 per bottle), cheaper than Amazon ($21.90) or Olive Young ($31); clinically proven dark spot improvement in 7 days; Olive Young's #1 Serum/Essence for the 7th time with 10M bottles sold. Prices may change, check before sending.
+- Content ideas (from the guideline): "10M bottles sold, now at Costco"; "Olive Young's #1 serum, now at Costco"; "7 days, visible difference" Day 1 vs Day 7.
+- Claims caution: the guideline says "clinically proven dark spot improvement in 7 days", but the deck's clinical study is 4 weeks (20 participants). The deck's "After 2 weeks" before/after image covers Toner Pad, Serum and Cream together and is "not based on a clinical study". Do not reuse it. Creators should use the brand's wording only. Guideline typos: "live Young's #1 Serum", "10 million bottle".
+- Unknown: usage rights, confidentiality of the campaign beyond the form, review process, deadline after posting, hashtags, shipping-cost coverage. Ask the user.
+
+## re:nk Cell to Cell Cream (new campaign, started Nov 9)
+- Outreach subject: "Costco.com Favorite, Now In Stores | re:nk Cell to Cell Cream". "Seeding campaign": product now coming to Costco stores after a successful Costco.com launch. Product Seeding, gifted only.
+- Shipping form (provided by the user, Nov 10): https://docs.google.com/forms/d/e/1FAIpQLSfP_3CPBkr1FIe8-lv9EQ_ZrmSiwJ1Ni5fTiZFwbwrjhpLUww/viewform?usp=header
+- The form asks "Are you currently based in the US?", says "post content" and "within 2 weeks of receiving the product", warns that late posts can affect future collaborations (not repeated in drafts), and collects emails (same fix as above: "Responder input", organization restriction off).
+- Brand Deck and Content Guideline: user uploaded PDFs (share links NOT known; links are in the outreach).
+- Tags: Instagram @renk.global, TikTok @renk.us.
+- Deliverable: 1 post within 2 weeks of receiving the product.
+- Mentions (from the guideline): restock at Costco; available at Costco; powered by 250,000 REAL CELL.
+- Content ideas: before and after; close-up texture shot; applying the cream and showing the final skin finish.
+- After Confirmation (key points): gifted seeding, form (confidential), 1 post within 2 weeks, tags, mentions, content ideas. U.S. confirmation is handled by the form.
+- Cautions: the deck has a slide with "1 million Real Cells" for the Essence (the Cream is 250,000); a "100%" clinical-results slide covers Essence and Cream together. Do not repeat those claims. Guideline typos: "LIUMINOSITY", "fatiqued". Guideline says "Restock at Costco!" while the outreach says "coming to Costco stores after a launch on Costco.com"; confirm "restock" with the user.
+- Unknown: usage rights, whether in-store footage is needed, whether a Costco membership is needed, shipping-cost coverage, hashtags, deadline after posting.
+
+## Honeyque
+- Creators already posted sometimes reply with a video; ask them to reply with the post link. No campaign details are saved (tags, deadline, form unknown).
+
+## Follow-ups (lessons)
+- Several follow-ups ("final reminder", "over a month since you received the product") went to creators who had already posted or never got a clear deadline (AMOS, Vitapair C PDRN, ELROEL). Check the sheet for "posted" before sending follow-ups.
+- A reply meant for one creator once went into another creator's thread (Gem Cruz, Nov 11). Check the greeting name against the thread before sending.
