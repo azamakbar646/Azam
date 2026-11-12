@@ -190,9 +190,10 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Deliverable: 1 post within 2 weeks of receiving the product.
 - Mentions (from the guideline): restock at Costco; available at Costco; powered by 250,000 REAL CELL.
 - Content ideas: before and after; close-up texture shot; applying the cream and showing the final skin finish.
-- After Confirmation (key points): gifted seeding, form (confidential), 1 post within 2 weeks, tags, mentions, content ideas. U.S. confirmation is handled by the form.
+- After Confirmation (key points): gifted seeding, form (confidential), 1 post within 2 weeks, tags (@renk.global or @renk.us, plus @costco), hashtags (#Costco #CostcoFinds), mentions, content ideas. U.S. confirmation is handled by the form.
 - Cautions: the deck has a slide with "1 million Real Cells" for the Essence (the Cream is 250,000); a "100%" clinical-results slide covers Essence and Cream together. Do not repeat those claims. Guideline typos: "LIUMINOSITY", "fatiqued". Guideline says "Restock at Costco!" while the outreach says "coming to Costco stores after a launch on Costco.com"; confirm "restock" with the user.
-- Unknown: whether in-store footage is needed, whether a Costco membership is needed, shipping-cost coverage, hashtags, deadline after posting.
+- HASHTAGS (user instruction, Nov 12): #Costco #CostcoFinds. (Not in the guideline PDF text; given by the user.)
+- Unknown: whether in-store footage is needed, whether a Costco membership is needed, shipping-cost coverage, deadline after posting, and what the user meant by "tag in their Instagram link" (asked, unanswered).
 
 ## Honeyque
 - Creators already posted sometimes reply with a video; ask them to reply with the post link. No campaign details are saved (tags, deadline, form unknown).
