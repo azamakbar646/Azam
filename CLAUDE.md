@@ -185,13 +185,14 @@ Other campaigns mentioned before: Honeyque, JAYJUN (no details saved).
 - Shipping form (provided by the user, Nov 10): https://docs.google.com/forms/d/e/1FAIpQLSfP_3CPBkr1FIe8-lv9EQ_ZrmSiwJ1Ni5fTiZFwbwrjhpLUww/viewform?usp=header
 - The form asks "Are you currently based in the US?", says "post content" and "within 2 weeks of receiving the product", warns that late posts can affect future collaborations (not repeated in drafts), and collects emails (same fix as above: "Responder input", organization restriction off).
 - Brand Deck and Content Guideline: user uploaded PDFs (share links NOT known; links are in the outreach).
-- Tags: Instagram @renk.global, TikTok @renk.us.
+- Tags: Instagram @renk.global, TikTok @renk.us. The guideline PDF text lists only these two ("TAG US") under "Tag & Post". User instruction (Nov 12): also use the Costco tag (@costco). Whether to add anything about the creator's Instagram link/bio: asked the user, NOT confirmed (the PDF text has no such instruction).
+- USAGE RIGHTS (user policy, Nov 12): using a creator's video in ads is OPTIONAL and only with the creator's happy consent. If they allow it, we may use it; if they do not allow it, we do not use it. This is a gifted campaign, so we cannot pay anything for usage rights. When a creator asks about usage rights, say this (do not promise "we'll confirm with the brand" for re:nk any more). Suggested wording: "Allowing us to use your video in ads is completely optional. If you're happy to allow it, we may use it in ads, and if not, we won't. Since this is a gifted collaboration, we're not able to offer payment for usage rights."
 - Deliverable: 1 post within 2 weeks of receiving the product.
 - Mentions (from the guideline): restock at Costco; available at Costco; powered by 250,000 REAL CELL.
 - Content ideas: before and after; close-up texture shot; applying the cream and showing the final skin finish.
 - After Confirmation (key points): gifted seeding, form (confidential), 1 post within 2 weeks, tags, mentions, content ideas. U.S. confirmation is handled by the form.
 - Cautions: the deck has a slide with "1 million Real Cells" for the Essence (the Cream is 250,000); a "100%" clinical-results slide covers Essence and Cream together. Do not repeat those claims. Guideline typos: "LIUMINOSITY", "fatiqued". Guideline says "Restock at Costco!" while the outreach says "coming to Costco stores after a launch on Costco.com"; confirm "restock" with the user.
-- Unknown: usage rights, whether in-store footage is needed, whether a Costco membership is needed, shipping-cost coverage, hashtags, deadline after posting.
+- Unknown: whether in-store footage is needed, whether a Costco membership is needed, shipping-cost coverage, hashtags, deadline after posting.
 
 ## Honeyque
 - Creators already posted sometimes reply with a video; ask them to reply with the post link. No campaign details are saved (tags, deadline, form unknown).
